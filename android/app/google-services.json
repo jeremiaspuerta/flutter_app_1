@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227300809781",
+    "firebase_url": "https://ahorrapp-a498b.firebaseio.com",
+    "project_id": "ahorrapp-a498b",
+    "storage_bucket": "ahorrapp-a498b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227300809781:android:8a8c17df49fa99ed0de57c",
+        "android_client_info": {
+          "package_name": "com.example.ahorrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227300809781-1mgvm108ef4mqnvcv4hmi0v9loed56cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7rsw_bIUhlSTWepPQAFlkvSK-ZGGFHUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227300809781-1mgvm108ef4mqnvcv4hmi0v9loed56cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
