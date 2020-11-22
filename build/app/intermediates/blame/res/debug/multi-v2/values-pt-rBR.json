@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jeremias/Documentos/flutter-projects/ahorrapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/home/jeremias/Documentos/flutter-projects/flutter_app_1/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/home/jeremias/.gradle/caches/transforms-2/files-2.1/eb00b5c140df0b63f0b7069d32a82df7/jetified-play-services-basement-17.0.0/res/values-pt-rBR/values.xml",

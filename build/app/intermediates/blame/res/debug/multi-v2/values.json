@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jeremias/Documentos/flutter-projects/ahorrapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/jeremias/Documentos/flutter-projects/flutter_app_1/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/jeremias/.gradle/caches/transforms-2/files-2.1/44b1706abe044cd42dcac5be863451ed/core-1.1.0/res/values/values.xml",
@@ -23,7 +23,24 @@
                     }
                 },
                 {
-                    "source": "/home/jeremias/Documentos/flutter-projects/ahorrapp/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/jeremias/Documentos/flutter-projects/flutter_app_1/build/app/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,308,390,494,603,723,821",
+                        "endColumns": "143,108,81,103,108,119,97,74",
+                        "endOffsets": "194,303,385,489,598,718,816,891"
+                    },
+                    "to": {
+                        "startLines": "79,80,81,82,83,84,85,86",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "4893,5037,5146,5228,5332,5441,5561,5659",
+                        "endColumns": "143,108,81,103,108,119,97,74",
+                        "endOffsets": "5032,5141,5223,5327,5436,5556,5654,5729"
+                    }
+                },
+                {
+                    "source": "/home/jeremias/Documentos/flutter-projects/flutter_app_1/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -39,23 +56,6 @@
                         "endLines": "92,95",
                         "endColumns": "12,12",
                         "endOffsets": "6097,6262"
-                    }
-                },
-                {
-                    "source": "/home/jeremias/Documentos/flutter-projects/ahorrapp/build/app/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,308,390,494,603,723,821",
-                        "endColumns": "143,108,81,103,108,119,97,74",
-                        "endOffsets": "194,303,385,489,598,718,816,891"
-                    },
-                    "to": {
-                        "startLines": "79,80,81,82,83,84,85,86",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "4893,5037,5146,5228,5332,5441,5561,5659",
-                        "endColumns": "143,108,81,103,108,119,97,74",
-                        "endOffsets": "5032,5141,5223,5327,5436,5556,5654,5729"
                     }
                 },
                 {
