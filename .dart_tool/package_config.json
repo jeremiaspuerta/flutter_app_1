@@ -8,6 +8,12 @@
       "languageVersion": "2.10"
     },
     {
+      "name": "barcode_scan",
+      "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/barcode_scan-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0-nullsafety.1",
       "packageUri": "lib/",
@@ -50,30 +56,6 @@
       "languageVersion": "2.10"
     },
     {
-      "name": "firebase",
-      "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase-7.3.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.7"
-    },
-    {
-      "name": "firebase_analytics",
-      "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-6.2.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.1"
-    },
-    {
-      "name": "firebase_analytics_platform_interface",
-      "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics_platform_interface-1.0.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
-    },
-    {
-      "name": "firebase_analytics_web",
-      "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics_web-0.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.7"
-    },
-    {
       "name": "firebase_core",
       "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.2",
       "packageUri": "lib/",
@@ -88,6 +70,12 @@
     {
       "name": "firebase_core_web",
       "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/fixnum-0.10.11",
       "packageUri": "lib/",
       "languageVersion": "2.1"
     },
@@ -108,18 +96,6 @@
       "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "2.0"
-    },
-    {
-      "name": "http",
-      "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.4"
-    },
-    {
-      "name": "http_parser",
-      "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.3"
     },
     {
       "name": "js",
@@ -146,16 +122,16 @@
       "languageVersion": "2.10"
     },
     {
-      "name": "pedantic",
-      "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.9.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.1"
-    },
-    {
       "name": "plugin_platform_interface",
       "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.1"
+    },
+    {
+      "name": "protobuf",
+      "rootUri": "file:///home/jeremias/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/protobuf-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
     },
     {
       "name": "quiver",
@@ -224,7 +200,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-11-21T12:20:38.859417Z",
+  "generated": "2020-11-24T23:24:29.214970Z",
   "generator": "pub",
   "generatorVersion": "2.10.4"
 }

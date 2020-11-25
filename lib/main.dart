@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'routes/home.dart';
 
-import 'package:flutter/material.dart';
-
 void main() {
   runApp(MyApp());
 }
